@@ -1,0 +1,10 @@
+com\dental\controllers\PatientController.class
+com\dental\entities\act.class
+com\dental\repositories\PatientRepository.class
+com\dental\DemoApplication.class
+com\dental\entities\Appointment.class
+com\dental\entities\Patient.class
+com\dental\services\patientService.class
+com\dental\config\BeansConfigurations.class
+com\dental\config\LoggingAspect.class
+com\dental\services\IPatientService.class
